@@ -1,12 +1,12 @@
 <div align="center">
 
-# Apple02624
+# Sherwin Casem
 
 </div>
 
 <div align="center">
   
-### AI Product Engineer | Building AI-powered systems
+### Senior AI Engineer | Production-AI-Systems
 
 </div>
 
