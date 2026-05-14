@@ -23,12 +23,13 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
-I design and build production-ready AI systems powered by Large Language Models.
-My focus is not just calling APIs —  but architecting intelligent systems that are scalable, reliable, and user-centered.
+I design and build production-ready AI systems powered by Large Language Models, with a strong focus on AI automation.
+My expertise goes beyond calling APIs — I architect intelligent, scalable, and reliable systems that automate real-world workflows.
 
 I specialize in:
 - AI system architecture
 - LLM system design
+- AI automation pipelines
 - Retrieval-Augmented Generation (RAG)
 - AI-powered SaaS projects
 - AI agent development
@@ -43,6 +44,7 @@ I'm passionate about creating AI solutions that solve real-world problems while 
 
 I'm actively seeking collaboration opportunities on:
 - AI system architecture projects
+- AI automation projects and workflow optimization
 - RAG-based AI applications
 - AI-powered education platforms
 - LLM-driven SaaS tools
