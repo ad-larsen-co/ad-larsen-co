@@ -6,7 +6,7 @@
 
 <div align="center">
   
-## Senior Software Engineer
+## Senior Software & AI Engineer | 11+ Years of Building Scalable Digital Products
 
 </div>
 
@@ -23,25 +23,36 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
-I am a Senior Software Engineer with deep expertise across **full-stack development, AI technologies, and product design**. Over the years, I have successfully delivered solutions in **web, mobile, desktop, and game development**, as well as cutting-edge **AI products and automation systems**. My experience spans the entire software lifecycle—from design and architecture to implementation and optimization.
+I’m a passionate **Senior Software Engineer with 11+ years of experience** building high-quality digital products across **web, mobile, AI, mapping systems, automation, and interactive applications**.
 
-I thrive on solving complex technical challenges and transforming ideas into high-quality, scalable, and user-friendly products.
+Throughout my career, I’ve helped transform ideas into scalable, production-ready products — from modern SaaS platforms and enterprise applications to AI-powered systems, real-time map experiences, and automation workflows.
 
-🔹 What I Do
-- Full-stack web and mobile application development
-- AI-powered products, automation, and machine learning solutions
-- Game development and interactive experiences
-- System architecture, cloud solutions, and scalable backend systems
-- UI/UX and product design for digital experiences
-- Mentoring and leading development teams
+I enjoy solving complex technical challenges and turning ambitious ideas into elegant, user-friendly solutions.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Rocket" width="35" height="35" /> Let's Collaborate
+### 🚀 What I Bring
 
-🔹 My Approach
-I combine **technical excellence, creativity, and AI innovation** to deliver solutions that are reliable, scalable, and future-ready. Whether it’s building web platforms, mobile apps, AI-driven products, or immersive games, I aim to exceed expectations while keeping maintainability and performance at the core.
+- **11+ years of software engineering experience**
+- Deep expertise in **Full-Stack Development**
+- Strong background in **AI Products & AI Automation**
+- Advanced experience with **Map Development & Geospatial Systems (Mapbox, GIS, real-time mapping)**
+- Mobile, web, and cross-platform application development
+- Game and interactive experience development
+- Scalable backend architecture & cloud infrastructure
+- Product thinking, UI/UX collaboration, and system design
 
-📫 Let's Connect
-I’m open to **collaboration, mentoring, freelance projects, or full-time opportunities** where I can contribute to ambitious and innovative technology projects.
+### 💡 Engineering Philosophy
+
+I believe great software is more than just code — it’s about **solving real problems, creating meaningful user experiences, and building systems that scale**.
+
+My approach combines **technical excellence, clean architecture, performance optimization, and strong product thinking** to deliver solutions that are reliable, maintainable, and future-ready.
+
+I’m comfortable taking ownership across the entire product lifecycle — from **planning and architecture to deployment and optimization**
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Rocket" width="35" height="35" /> Let’s Build Something Great
+
+I enjoy collaborating with ambitious teams, startups, and businesses to create products that make an impact.
+
+Whether it's **AI products, full-stack applications, geospatial systems, automation, or complex engineering challenges**, I’m always excited to build meaningful technology.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Rocket" width="35" height="35" /> Tech Stack
 
