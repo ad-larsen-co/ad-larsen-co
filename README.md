@@ -29,7 +29,7 @@ Throughout my career, I’ve helped transform ideas into scalable, production-re
 
 I enjoy solving complex technical challenges and turning ambitious ideas into elegant, user-friendly solutions.
 
-### 🚀 What I Bring
+🚀 **What I Bring**
 
 - **11+ years of software engineering experience**
 - Deep expertise in **Full-Stack Development**
@@ -40,7 +40,7 @@ I enjoy solving complex technical challenges and turning ambitious ideas into el
 - Scalable backend architecture & cloud infrastructure
 - Product thinking, UI/UX collaboration, and system design
 
-### 💡 Engineering Philosophy
+💡 **Engineering Philosophy**
 
 I believe great software is more than just code — it’s about **solving real problems, creating meaningful user experiences, and building systems that scale**.
 
