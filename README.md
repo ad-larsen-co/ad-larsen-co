@@ -6,7 +6,7 @@
 
 <div align="center">
   
-## Senior Software & AI Engineer | 11+ Years of Building Scalable Digital Products
+## Senior Software & AI Engineer | 12+ Years of Building Scalable Digital Products
 
 </div>
 
