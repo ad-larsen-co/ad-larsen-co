@@ -23,7 +23,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
-I’m a passionate **Senior Software Engineer with 11+ years of experience** building high-quality digital products across **web, mobile, AI, mapping systems, automation, and interactive applications**.
+I’m a passionate **Senior Software Engineer with 12+ years of experience** building high-quality digital products across **web, mobile, AI, mapping systems, automation, and interactive applications**.
 
 Throughout my career, I’ve helped transform ideas into scalable, production-ready products — from modern SaaS platforms and enterprise applications to AI-powered systems, real-time map experiences, and automation workflows.
 
@@ -31,7 +31,7 @@ I enjoy solving complex technical challenges and turning ambitious ideas into el
 
 🚀 **What I Bring**
 
-- **11+ years of software engineering experience**
+- **12+ years of software engineering experience**
 - Deep expertise in **Full-Stack Development**
 - Strong background in **AI Products & AI Automation**
 - Advanced experience with **Map Development & Geospatial Systems (Mapbox, GIS, real-time mapping)**
